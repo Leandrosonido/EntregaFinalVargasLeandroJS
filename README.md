@@ -1,2 +1,2 @@
-# preentrega3_vargasleandro
+Proyecto final JS
 coderhouse 
