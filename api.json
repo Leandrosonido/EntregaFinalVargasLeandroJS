@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 50,
+        "id": 1,
+        "title": "curso 1",
+        "thumbnailUrl": "images/img-1.jpg"
+    },
+    {
+        "precio": 30,
+        "id": 2,
+        "title": "curso 2",
+        "thumbnailUrl": "images/img-2.jpg"
+    },
+    {
+        "precio": 35,
+        "id": 3,
+        "title": "curso 3",
+        "thumbnailUrl": "images/img-3.jpg"
+    },
+    {
+        "precio": 40,
+        "id": 4,
+        "title": "curso 4",
+        "thumbnailUrl": "images/img-4.jpg"
+    },
+    {
+        "precio": 50,
+        "id": 5,
+        "title": "curso 5",
+        "thumbnailUrl": "images/img-5.jpg"
+    },
+    {
+        "precio": 50,
+        "id": 6,
+        "title": "curso 6",
+        "thumbnailUrl": "images/img-6.jpg"
+    }
+]
